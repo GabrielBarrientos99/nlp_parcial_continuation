@@ -1,0 +1,4 @@
+# Ignora todos los archivos de puntos de control de Jupyter
+.ipynb_checkpoints/
+
+
